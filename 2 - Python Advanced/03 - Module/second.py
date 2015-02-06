@@ -44,3 +44,12 @@ import this_dir.module
 
 该文件夹中必须包含一个__init__.py的文件，提醒Python，该文件夹为一个模块包。__init__.py可以是一个空文件。
 """
+
+
+"""
+import sys
+sys.path.append('父目录路径')
+import c
+从父目录模块调用子目录模块
+从子目录模块调用父目录模块
+"""
