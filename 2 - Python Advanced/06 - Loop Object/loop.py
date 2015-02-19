@@ -59,7 +59,7 @@ print L1
 #表推导方式
 L2=[x**2 for x in range(10)]
 print L2
-
+#test
 x1=[1,3,5]
 y1=[9,12,13]
 L=[x**2 for (x,y) in zip(x1,y1) if y>10]
