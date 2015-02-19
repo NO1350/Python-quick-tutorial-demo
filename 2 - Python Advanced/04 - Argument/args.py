@@ -1,6 +1,6 @@
-__author__ = 'crixalis'
-# coding:utf-8
+# -*- coding: UTF-8 -*-
 #!/usr/bin/env python
+
 #参数传递
 
 #位置传递
